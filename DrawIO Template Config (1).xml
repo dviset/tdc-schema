@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <templates>
-  <clibs name="TDC-Example">
+  <clibs name="TDC">
     <add>https://raw.githubusercontent.com/dviset/tdc-schema/main/TDC_Examples.xml</add>
+    <add>https://raw.githubusercontent.com/dviset/tdc-schema/main/TDC_Examples%202.xml</add>
   </clibs>
-  <template section="TDC Examples" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/TDC%20Signal%20Flow%20Template.drawio" title="Signal Flow Schema" name="A template for showing signal flow between different gear" libs="general" clibs="TDC-Example" tags="tdc;signal;schematic" />
+  <template section="TDC Examples" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/TDC%20Signal%20Flow%20Template.drawio" title="Signal Flow Schema" name="A template for showing signal flow between different gear" libs="general" />
 </templates>
