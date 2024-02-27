@@ -9,4 +9,3 @@
   <template section="TDC Examples" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/TDC%20Signal%20Flow%20Template.drawio" title="Signal Flow Schema" name="A template for showing signal flow between different gear" libs="general" clibs="tdc-signal" />
   <template section="TDC Examples" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/TDC%20Signal%20Flow%20Template.drawio" title="Power Flow Schema" name="A template for showing power flow between different gear" libs="general" clibs="tdc-power" />
 </templates>
-</templates>
