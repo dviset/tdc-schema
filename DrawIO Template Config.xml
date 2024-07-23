@@ -1,10 +1,26 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="tdc-signal">
-    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Examples.xml</add>
-    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Technicians.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Cameras.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Connectors.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Converters.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-DAs.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Event Master.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Examples.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-LED.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Laptops.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Looms.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Matrices.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Media Servers.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Monitors.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Network.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Projection.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Scalers.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Technicians.xml</add>
+  </clibs>
+  <clibs name="tdc-power">
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Distros.xml</add>
   </clibs>
   <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20Signal%20Flow%20Template.drawio" title="Signal Flow Schema" name="A template for showing signal flow between different gear" libs="general" clibs="tdc-signal" />
-  <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20Power%20Flow%20Template.drawio" title="Power Flow Schema" name="Power flow between kit" libs="general" clibs="tdc-signal" />
+  <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20Power%20Flow%20Template.drawio" title="Power Flow Schema" name="Power flow between kit" libs="general" clibs="tdc-power" />
 </templates>
