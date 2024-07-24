@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T08:01:48.775Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JkJrkKfto5s23yleo9bM" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T01:51:55.436Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z72aCYO5gbm_Y4l_4JS_" version="24.7.1" type="github">
   <diagram name="Page-1" id="yE11Em2MSEOL71LbrN_B">
-    <mxGraphModel dx="1269" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,6 +483,32 @@
         </mxCell>
         <mxCell id="mvR4WEJM2NBCJ84Oet6g-257" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="1">
           <mxGeometry x="1195" y="135.12" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-423" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-411" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;b&gt;NETGEAR N900 WIFI ROUTER&lt;/b&gt;&lt;br&gt;&lt;i&gt;Example Device&lt;/i&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry width="140" height="50" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-413" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;points=[[0.5,1,0,0,0]];fontStyle=0" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry x="10" y="50" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-414" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;points=[[0.5,1,0,0,0]];" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry x="20" y="50" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-415" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;points=[[0.5,1,0,0,0]];" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry x="30" y="50" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-416" value="4" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;points=[[0.5,1,0,0,0]];" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry x="40" y="50" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-421" value="WIFI" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=none;points=[[0,0.5,0,0,0]];rotation=-90;" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry x="120" y="60" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mvR4WEJM2NBCJ84Oet6g-422" value="WAN" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=8;fontColor=default;labelBackgroundColor=none;points=[[0,0.5,0,0,0]];rotation=-90;" vertex="1" parent="mvR4WEJM2NBCJ84Oet6g-423">
+          <mxGeometry x="-10" y="60" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
