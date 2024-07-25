@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <templates>
   <clibs name="tdc-signal">
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Audio.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Cameras.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Connectors.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Converters.xml</add>
