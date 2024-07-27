@@ -1,3 +1,6 @@
 # tdc-schema
 
 Syntax for config file: https://www.drawio.com/doc/faq/format-template-library
+
+Current link for auto-config:
+https://app.diagrams.net/?libs=general?clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdviset%2Ftdc-schema%2Fmain%2FShapesets%2FTDC-Distros.xml#_CONFIG_hZPBbsIwDIafpsehLgyxHqFQadKkHdgLhMa0gSSuUmeMPf3SChI2bWlkpXH9+7OtKNlynTFGoDvFCSqpwLvZfOX3lqjrx2PlzfLzrJHUur3rwdZoCAzNatQ+Jj5kD+QPJOqHvm5Bc+9oLo3/bHzmy1vGFix/v5YZnRLNQTazT62Giqz0e+16Ql2iQrsbKNBfm1msBxtbPUilQosZm+d+lWVA9GTxBH8LlptB8w+l8itJuQkSlKLI86JIUKIgQamqoViCEgVJyrMfPEm5CSZ6maDk05Rh6CQlCibuaIJyEyTv6KlMUqLAUxajjUoBB+4UbUUDO7qEdzIWgV8/GTNoIBSx6IwAEYKx/BGILjv5FRO5IwxhtNRig4arV8QuaB6DAIxYWYvnENorrE/34ep+/ph4dLr72XHDu+vQy803
