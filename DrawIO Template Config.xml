@@ -9,12 +9,14 @@
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Event Master.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Examples.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-LED.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-LED Tiles.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Laptops.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Looms.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Matrices.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Media Servers.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Monitors.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Network.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Peripherals.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Projection.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Scalers.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Technicians.xml</add>
