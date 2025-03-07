@@ -68,5 +68,12 @@
     "h": 40,
     "aspect": "fixed",
     "title": "G2 HDMI Out"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry x=\"4.547473508864641e-13\" width=\"50\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;font style=&amp;quot;font-size: 5px;&amp;quot;&amp;gt;MTP&amp;lt;/font&amp;gt;\" style=\"whiteSpace=wrap;html=1;textDirection=vertical-lr;rounded=0;glass=0;perimeterSpacing=0;strokeWidth=0.5;fillStyle=auto;strokeColor=#000000;points=[];\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"40\" width=\"10\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"MTP Link 1\" placeholders=\"1\" id=\"4\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"&amp;lt;span style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;MTP Link 2&amp;lt;/span&amp;gt;\" placeholders=\"1\" id=\"5\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"10\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "MTP Fibre Link"
   }
 ]</mxlibrary>
