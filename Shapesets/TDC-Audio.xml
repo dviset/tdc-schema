@@ -19,5 +19,12 @@
     "h": 190,
     "aspect": "fixed",
     "title": "Yamaha Mixer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"1.1368683772161603e-13\" width=\"160\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;object label=\"USB-B\" placeholders=\"1\" id=\"3\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;mxCell id=\"4\" value=\"&amp;lt;p style=&amp;quot;line-height: 130%; font-size: 9px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;b&amp;gt;USB AUDIO DI&amp;lt;/b&amp;gt;&amp;lt;br style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;i&amp;gt;Example Label&amp;lt;/i&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;\" style=\"rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"40\" width=\"80\" height=\"30\" as=\"geometry\"&gt;&lt;mxRectangle x=\"560\" y=\"300\" width=\"110\" height=\"70\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;object label=\"XLR L Out\" placeholders=\"1\" id=\"5\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"120\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;object label=\"XLR R Out\" placeholders=\"1\" id=\"6\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"120\" y=\"9.879999999999995\" width=\"40\" height=\"10\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/object&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "USB DI"
   }
 ]</mxlibrary>
