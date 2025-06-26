@@ -29,5 +29,5 @@
   </clibs>
   <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20Signal%20Flow%20Template.drawio" title="Signal Flow Schema" name="A template for showing signal flow between different gear" libs="general" clibs="tdc-signal" />
   <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20Power%20Flow%20Template.drawio" title="Power Flow Schema" name="Power flow between kit" libs="general" clibs="tdc-power" />
-  <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20General%20Template.drawio" title="High Level Overview" name="Non-specific power and data diagram" libs="general" clibs="tdc-signal;tdc-power" />
+  <template section="TDC Schematics" url="https://raw.githubusercontent.com/dviset/tdc-schema/main/Templates/TDC%20General%20Template.drawio" title="High Level Overview" name="Non-specific power and data diagram" libs="general" clibs="tdc-signal" />
 </templates>
