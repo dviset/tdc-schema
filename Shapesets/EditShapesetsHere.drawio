@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="yE11Em2MSEOL71LbrN_B">
-    <mxGraphModel dx="1181" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6557,6 +6557,281 @@
         </mxCell>
         <mxCell id="1fTly_CK4mHZAAREvSzi-73" value="SFP B&lt;div&gt;Fibre&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
           <mxGeometry x="120" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-74" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;LED Power&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5270" y="60" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-113" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5280" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-114">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+            <mxGeometry width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-115" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxGeometry x="40" width="80" height="60" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-116">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+            <mxGeometry x="120" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-117" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-118" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxGeometry x="120" y="20" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-119" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxGeometry x="120" y="30" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-120" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxGeometry x="120" y="40" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-121" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxGeometry x="120" y="50" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-144" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5280" y="360" width="160" height="80.12" as="geometry" />
+        </mxCell>
+        <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-135">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+            <mxGeometry width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-136" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY LOOP&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxGeometry x="40" width="80" height="80" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-137">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+            <mxGeometry x="120" y="20.120000000000005" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-138" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxGeometry x="120" y="30.120000000000005" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-139" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxGeometry x="120" y="40.120000000000005" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-140" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxGeometry x="120" y="50.120000000000005" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-141" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxGeometry x="120" y="60.120000000000005" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-142" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxGeometry x="120" y="70.12" width="40" height="10" as="geometry" />
+        </mxCell>
+        <object label="Soca Loop" placeholders="1" id="1fTly_CK4mHZAAREvSzi-143">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+            <mxGeometry x="120" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-158" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5320" y="220" width="80" height="100" as="geometry" />
+        </mxCell>
+        <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-123">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+            <mxGeometry x="20" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-124" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxGeometry y="10" width="80" height="49.88" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-125">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+            <mxGeometry x="-5" y="75" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-126" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxGeometry x="5" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-127" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxGeometry x="15" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-128" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxGeometry x="25" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-129" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxGeometry x="35" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-130" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxGeometry x="45" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-160" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5320" y="480" width="80" height="100" as="geometry" />
+        </mxCell>
+        <object label="Soca In" placeholders="1" id="1fTly_CK4mHZAAREvSzi-146">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-160">
+            <mxGeometry width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-147" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY LOOP&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-160">
+          <mxGeometry y="10" width="80" height="50" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Soca Loop" placeholders="1" id="1fTly_CK4mHZAAREvSzi-154">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-160">
+            <mxGeometry x="40" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-159" value="" style="group" vertex="1" connectable="0" parent="1fTly_CK4mHZAAREvSzi-160">
+          <mxGeometry x="10" y="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-148">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+            <mxGeometry x="-15" y="15" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-149" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+          <mxGeometry x="-5" y="15" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-150" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+          <mxGeometry x="5" y="15" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-151" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+          <mxGeometry x="15" y="15" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-152" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+          <mxGeometry x="25" y="15" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-153" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+          <mxGeometry x="35" y="15" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-176" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5280" y="640" width="160" height="120" as="geometry" />
+        </mxCell>
+        <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-162">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+            <mxGeometry width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-163" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;12WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="40" width="80" height="120" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-164">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+            <mxGeometry x="120" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-165" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-166" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="20" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-167" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="30" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-168" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="40" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-169" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="50" width="40" height="10" as="geometry" />
+        </mxCell>
+        <object label="Trucon 7" placeholders="1" id="1fTly_CK4mHZAAREvSzi-170">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+            <mxGeometry x="120" y="60" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-171" value="Trucon 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="70" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-172" value="Trucon 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="80" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-173" value="Trucon 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="90" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-174" value="Trucon 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="100" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-175" value="Trucon 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxGeometry x="120" y="110" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-192" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5320" y="790" width="120" height="100" as="geometry" />
+        </mxCell>
+        <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-178">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+            <mxGeometry x="40" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-179" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;12WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry y="10" width="120" height="49.88" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-180">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+            <mxGeometry x="-15" y="75" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-181" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="-5" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-182" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="5" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-183" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="15" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-184" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="25" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-185" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="35" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <object label="Trucon 7" placeholders="1" id="1fTly_CK4mHZAAREvSzi-186">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+            <mxGeometry x="45" y="75" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-187" value="Trucon 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="55" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-188" value="Trucon 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="65" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-189" value="Trucon 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="75" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-190" value="Trucon 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="85" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-191" value="Trucon 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxGeometry x="95" y="75" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-202" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5280" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-194">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+            <mxGeometry width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-195" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA SPLITTER&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+          <mxGeometry x="40" width="80" height="40" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Soca Out 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-196">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+            <mxGeometry x="120" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="1fTly_CK4mHZAAREvSzi-197" value="Soca Out 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+          <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
