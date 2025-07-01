@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="bxUT_-QItrBhoV4I_OVM">
-    <mxGraphModel dx="1097" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Watermark" style="locked=1;" parent="0" />
@@ -92,7 +92,7 @@
         <mxCell id="RaXvl02jSU460l54_Fcd-81" value="Date/Version:" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RaXvl02jSU460l54_Fcd-51" vertex="1">
           <mxGeometry x="480" y="1100" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="RaXvl02jSU460l54_Fcd-82" value="Draw.io Training games" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RaXvl02jSU460l54_Fcd-51" vertex="1">
+        <mxCell id="RaXvl02jSU460l54_Fcd-82" value="Draw.io Training games - V1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="RaXvl02jSU460l54_Fcd-51" vertex="1">
           <mxGeometry x="320" y="1050" width="160" height="10" as="geometry" />
         </mxCell>
         <object label="TDC Training - Page 1" placeholders="1" id="RaXvl02jSU460l54_Fcd-83">
@@ -590,7 +590,7 @@
         <mxCell id="_OGK05mqe6PVR0XClqPx-495" value="BARELY EVEN KNOW ERS!" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#FF3333;" parent="_OGK05mqe6PVR0XClqPx-493" vertex="1">
           <mxGeometry x="1050" y="110" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_OGK05mqe6PVR0XClqPx-516" value="Harry In Prison" parent="0" />
+        <mxCell id="_OGK05mqe6PVR0XClqPx-516" value="Harry In Prison" style="locked=1;" parent="0" />
         <mxCell id="_OGK05mqe6PVR0XClqPx-506" value="PRISON" parent="0" />
         <mxCell id="_OGK05mqe6PVR0XClqPx-509" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="_OGK05mqe6PVR0XClqPx-506" vertex="1">
           <mxGeometry x="920" y="800" width="200" height="200" as="geometry" />
@@ -649,6 +649,12 @@
         </mxCell>
         <mxCell id="Pn-9dxuOaPRwiQ5Gq-Nn-23" value="" style="shape=stencil(lVjLctswDPwaXzEkwec5bf8jM3EaT9M4k6Svv++qHskGZG2am21xTXCxAJba6c3rw+3zfpfC69vL8dv+1+Hu7WGnn3YpHZ4e9i+HN3za6eed3twfX/ZfX44/nu5O359vp5XTp+/Hn9M//D7hNEhLEyqFP6dfxpAS/v3y5QR4PDxdAFIW7RZQpfVtQCwyHCDQHWKSng2gFym6DcBTt35Izdvrg9Tu/39Utj4Es74NGY1QJMHG01Qq+f8iQc36WiXE7fVdWjPrS5OaCKFRmg2oBEmDALLEaAA5Sy0EMCRYSrVJZCoqMyMLIImSM6hKtkkADZkkIUeJlqVUJRFWM85QLKBJYrJDJdiQECTLW1FfCTroGZCmbEPKlR+6zMJcMo09SR7yqvxrmNV4PXFdkj00xEcB0KYLCfVHxJeGNCuNnGiDAevNqlWRGZIHsO7kDTlG0jCg/mYrNFbpjNYhydIaF6K3tJRcD5ibyNX1yJLrAUkqyULFka30IC0ST4P0q1sfSNJ69i1maZpX14+l457jbyRlo8mw/GRaahhiahNQpPP1Y9ieTesG67vlHwkOpDJH95WJMccYxYndnI3QOenBoDS5HbJ0UjcDc9bmAKNa2Q7QTPSASFTXu+/BCCkR2fUqumKpkTrA5E7R56GzHfJcuMvwn93A1gbRCqNSLzKdwAu1slkOiqxQdW5OWzlQN6XmADeTbM8bZbyjItcb58G7KVN18RfC/1QHdn2ZNbJZaFakbe5k151IWLm1wUU9PKGwS5kB2qqSVRIDoJW7YZClsDOrN6hxqe3rgLgaNwAwVfe5M1yEVEmaPw5Ic5lcsMTy0LLvwBOtRNkwyTX7kNjYryuvE5FK5teqv1hA3Mr8Wly52kDHTm5eGvAmiRkL9XMWjlDJ3QI22NXP2bZuuSlHK4LsJA+6PF4AIJoA8jLHLi4Lhe2wMgtgiTnC6Wpg1Yo92Q5o0s5O5U69/9QVHa24oJBBhRuS68OQ42CNbCWNs4e7DlB/HemRtpnqfXZbbnFbG0SbN7jEzEiKc4tYAJ3aZqTBDQeM60jUjd7ubCoaFTMYkFKxrKJ3BtKWtPozAMAMA7ScrZQwggu7jfT5prwA9D1AtiwN7jEmgGUJU55ZSV35NsywTvJwLuAF0Kj3BK2uB8AY0JAQsWNp0BsM7oBlBeikQtH4/BAN/BKjsFJ5tQU79Udftv0HAB/O7/buD4+Pp1eDl8/9u0D8dHqPqJ//Ag==);lineShape=1;strokeColor=#009900;" vertex="1" parent="Pn-9dxuOaPRwiQ5Gq-Nn-2">
           <mxGeometry x="1308.6647083655844" y="940.1196442318148" width="19.12909207697361" height="21.716042839387747" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn-9dxuOaPRwiQ5Gq-Nn-25" value="" style="whiteSpace=wrap;html=1;fillColor=#00FFFF;strokeColor=#00FFFF;" vertex="1" parent="Pn-9dxuOaPRwiQ5Gq-Nn-2">
+          <mxGeometry x="1160" y="800" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Pn-9dxuOaPRwiQ5Gq-Nn-26" value="&lt;b&gt;:)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF33;horizontal=1;rotation=90;" vertex="1" parent="Pn-9dxuOaPRwiQ5Gq-Nn-2">
+          <mxGeometry x="1314.33" y="810" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
