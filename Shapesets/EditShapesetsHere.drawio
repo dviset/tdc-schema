@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="yE11Em2MSEOL71LbrN_B">
-    <mxGraphModel dx="1384" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="425" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6295,7 +6295,7 @@
         <mxCell id="OkJHfjkLdoaD6J0OnCmr-62" value="DARS/WC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="OkJHfjkLdoaD6J0OnCmr-89" vertex="1">
           <mxGeometry x="120" y="60" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3080" y="180.12" width="160" height="39.879999999999995" as="geometry" />
         </mxCell>
         <object label="Genlock In" placeholders="1" id="_HkUU20Ik3oC28Roxj1M-17">
@@ -6324,515 +6324,543 @@
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;RS-422&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-2" vertex="1">
             <mxGeometry y="19.879999999999995" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3080" y="240" width="160" height="39.879999999999995" as="geometry" />
         </mxCell>
         <object label="Genlock In" placeholders="1" id="1fTly_CK4mHZAAREvSzi-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-3" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;LAN&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-5">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-3" vertex="1">
             <mxGeometry y="10" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-6" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;PANASONIC PTZ&lt;br&gt;AW-HE130&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-3">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-6" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;PANASONIC PTZ&lt;br&gt;AW-HE130&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-3" vertex="1">
           <mxGeometry x="40" width="80" height="39.88" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="SDI Out" placeholders="1" id="1fTly_CK4mHZAAREvSzi-7">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-3" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="HDMI Out" placeholders="1" id="1fTly_CK4mHZAAREvSzi-8">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-3" vertex="1">
             <mxGeometry x="120" y="9.879999999999995" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;RS-422&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-9">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-3" vertex="1">
             <mxGeometry y="19.879999999999995" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3080" y="300" width="160" height="50" as="geometry" />
         </mxCell>
         <object label="Genlock In" placeholders="1" id="1fTly_CK4mHZAAREvSzi-11">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;LAN&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-12">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry y="10" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-13" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;PANASONIC &lt;br&gt;4K PTZ&lt;br&gt;AW-HE160&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-13" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;PANASONIC &lt;br&gt;4K PTZ&lt;br&gt;AW-HE160&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
           <mxGeometry x="40" width="80" height="50" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="12G SDI" placeholders="1" id="1fTly_CK4mHZAAREvSzi-14">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="HDMI" placeholders="1" id="1fTly_CK4mHZAAREvSzi-15">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry x="120" y="20" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;RS-422&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-16">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry y="19.879999999999995" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="SFP+" placeholders="1" id="1fTly_CK4mHZAAREvSzi-17">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;Audio In 1&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-18">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry y="30.120000000000005" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;span style=&quot;font-weight: normal;&quot;&gt;Audio In 2&lt;/span&gt;" placeholders="1" id="1fTly_CK4mHZAAREvSzi-19">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-20">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-20" vertex="1">
             <mxGeometry y="40" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-28" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-28" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2840" y="460" width="160" height="30" as="geometry" />
         </mxCell>
         <object label="USB-B" placeholders="1" id="1fTly_CK4mHZAAREvSzi-22">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-28">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-28" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-24" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;USB AUDIO DI&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-28">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-24" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;USB AUDIO DI&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-28" vertex="1">
           <mxGeometry x="40" width="80" height="30" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="XLR L Out" placeholders="1" id="1fTly_CK4mHZAAREvSzi-25">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-28">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-28" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="XLR R Out" placeholders="1" id="1fTly_CK4mHZAAREvSzi-26">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-28">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-28" vertex="1">
             <mxGeometry x="120" y="9.879999999999995" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-34" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-34" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1880" y="2160" width="160" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-35" value="HD-BNC 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-35" value="HD-BNC 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="5.684341886080802e-14" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-36" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-36" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="10.000000000000057" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-37" value="HD-BNC 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-37" value="HD-BNC 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="20.000000000000057" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-38" value="HD-BNC 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-38" value="HD-BNC 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="30.000000000000057" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-39" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;ROSS ULTRIX&lt;br&gt;16x16&lt;br&gt;HD-BNC MATRIX&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-39" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;ROSS ULTRIX&lt;br&gt;16x16&lt;br&gt;HD-BNC MATRIX&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="40" width="80" height="220" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-40" value="HD-BNC 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-40" value="HD-BNC 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="5.684341886080802e-14" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-41" value="HD-BNC 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-41" value="HD-BNC 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="10.000000000000057" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-42" value="HD-BNC 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-42" value="HD-BNC 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="20.000000000000057" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-43" value="HD-BNC 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-43" value="HD-BNC 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="30.000000000000057" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-44" value="HD-BNC 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-44" value="HD-BNC 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="40" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-45" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-45" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="50" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-46" value="HD-BNC 7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-46" value="HD-BNC 7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="60" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-47" value="HD-BNC 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-47" value="HD-BNC 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="70" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-48" value="HD-BNC 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-48" value="HD-BNC 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="40" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-49" value="HD-BNC 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-49" value="HD-BNC 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="50" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-50" value="HD-BNC 7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-50" value="HD-BNC 7" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="60" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-51" value="HD-BNC 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-51" value="HD-BNC 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="70" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-52" value="HD-BNC 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-52" value="HD-BNC 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="80" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-53" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-53" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 10&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="90" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-54" value="HD-BNC 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-54" value="HD-BNC 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="100" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-55" value="HD-BNC 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-55" value="HD-BNC 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="110" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-56" value="HD-BNC 13" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-56" value="HD-BNC 13" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="120" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-57" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 14&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-57" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;HD-BNC 14&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="130" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-58" value="HD-BNC 15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-58" value="HD-BNC 15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="140" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-59" value="HD-BNC 16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-59" value="HD-BNC 16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="150" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-60" value="HD-BNC 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-60" value="HD-BNC 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="80" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-61" value="HD-BNC 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-61" value="HD-BNC 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="90" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-62" value="HD-BNC 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-62" value="HD-BNC 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="100" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-63" value="HD-BNC 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-63" value="HD-BNC 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="110" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-64" value="HD-BNC 13" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-64" value="HD-BNC 13" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="120" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-65" value="HD-BNC 14" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-65" value="HD-BNC 14" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="130" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-66" value="HD-BNC 15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-66" value="HD-BNC 15" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="140" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-67" value="HD-BNC 16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-67" value="HD-BNC 16" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="150" width="40" height="10" as="geometry" />
         </mxCell>
         <object label="Ethernet B" placeholders="1" id="1fTly_CK4mHZAAREvSzi-68">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
             <mxGeometry y="210" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
         <object label="Ethernet A" placeholders="1" id="1fTly_CK4mHZAAREvSzi-69">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
             <mxGeometry y="200" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-70" value="Ref A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-70" value="Ref A" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="170" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-71" value="Ref B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-71" value="Ref B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry y="180" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-72" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SFP A&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Fibre&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-72" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SFP A&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Fibre&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="175" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-73" value="SFP B&lt;div&gt;Fibre&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-34">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-73" value="SFP B&lt;div&gt;Fibre&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-34" vertex="1">
           <mxGeometry x="120" y="195" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-74" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;LED Power&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-74" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;LED Power&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="5270" y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-113" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-113" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5280" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-114">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-115" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-115" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
           <mxGeometry x="40" width="80" height="60" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-116">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-117" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-117" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
           <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-118" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-118" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
           <mxGeometry x="120" y="20" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-119" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-119" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
           <mxGeometry x="120" y="30" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-120" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-120" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
           <mxGeometry x="120" y="40" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-121" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-113">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-121" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-113" vertex="1">
           <mxGeometry x="120" y="50" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-144" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-144" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5280" y="360" width="160" height="80.12" as="geometry" />
         </mxCell>
         <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-135">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-136" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY LOOP&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-136" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY LOOP&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
           <mxGeometry x="40" width="80" height="80" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-137">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
             <mxGeometry x="120" y="20.120000000000005" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-138" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-138" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
           <mxGeometry x="120" y="30.120000000000005" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-139" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-139" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
           <mxGeometry x="120" y="40.120000000000005" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-140" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-140" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
           <mxGeometry x="120" y="50.120000000000005" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-141" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-141" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
           <mxGeometry x="120" y="60.120000000000005" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-142" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-142" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
           <mxGeometry x="120" y="70.12" width="40" height="10" as="geometry" />
         </mxCell>
         <object label="Soca Loop" placeholders="1" id="1fTly_CK4mHZAAREvSzi-143">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-144">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-144" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-158" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-158" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5320" y="220" width="80" height="100" as="geometry" />
         </mxCell>
         <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-123">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
             <mxGeometry x="20" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-124" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-124" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
           <mxGeometry y="10" width="80" height="49.88" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-125">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
             <mxGeometry x="-5" y="75" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-126" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-126" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
           <mxGeometry x="5" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-127" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-127" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
           <mxGeometry x="15" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-128" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-128" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
           <mxGeometry x="25" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-129" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-129" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
           <mxGeometry x="35" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-130" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-158">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-130" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-158" vertex="1">
           <mxGeometry x="45" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-160" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-160" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5320" y="480" width="80" height="100" as="geometry" />
         </mxCell>
         <object label="Soca In" placeholders="1" id="1fTly_CK4mHZAAREvSzi-146">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-160">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-160" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-147" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY LOOP&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-160">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-147" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;6WAY LOOP&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-160" vertex="1">
           <mxGeometry y="10" width="80" height="50" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Soca Loop" placeholders="1" id="1fTly_CK4mHZAAREvSzi-154">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-160">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-160" vertex="1">
             <mxGeometry x="40" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-159" value="" style="group" vertex="1" connectable="0" parent="1fTly_CK4mHZAAREvSzi-160">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-159" value="" style="group" parent="1fTly_CK4mHZAAREvSzi-160" vertex="1" connectable="0">
           <mxGeometry x="10" y="60" width="60" height="40" as="geometry" />
         </mxCell>
         <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-148">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" parent="1fTly_CK4mHZAAREvSzi-159" vertex="1">
             <mxGeometry x="-15" y="15" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-149" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-149" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-159" vertex="1">
           <mxGeometry x="-5" y="15" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-150" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-150" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-159" vertex="1">
           <mxGeometry x="5" y="15" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-151" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-151" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-159" vertex="1">
           <mxGeometry x="15" y="15" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-152" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-152" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-159" vertex="1">
           <mxGeometry x="25" y="15" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-153" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-159">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-153" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-159" vertex="1">
           <mxGeometry x="35" y="15" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-176" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-176" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5280" y="640" width="160" height="120" as="geometry" />
         </mxCell>
         <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-162">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-163" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;12WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-163" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;12WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="40" width="80" height="120" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-164">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-165" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-165" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-166" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-166" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="20" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-167" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-167" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="30" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-168" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-168" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="40" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-169" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-169" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="50" width="40" height="10" as="geometry" />
         </mxCell>
         <object label="Trucon 7" placeholders="1" id="1fTly_CK4mHZAAREvSzi-170">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
             <mxGeometry x="120" y="60" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-171" value="Trucon 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-171" value="Trucon 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="70" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-172" value="Trucon 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-172" value="Trucon 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="80" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-173" value="Trucon 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-173" value="Trucon 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="90" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-174" value="Trucon 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-174" value="Trucon 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="100" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-175" value="Trucon 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-176">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-175" value="Trucon 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-176" vertex="1">
           <mxGeometry x="120" y="110" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-192" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-192" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5320" y="790" width="120" height="100" as="geometry" />
         </mxCell>
         <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-178">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
             <mxGeometry x="40" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-179" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;12WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-179" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA-&amp;gt;TRUCON&lt;br&gt;12WAY FAN OUT&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry y="10" width="120" height="49.88" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Trucon 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-180">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
             <mxGeometry x="-15" y="75" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-181" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-181" value="Trucon 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="-5" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-182" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-182" value="Trucon 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="5" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-183" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-183" value="Trucon 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="15" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-184" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-184" value="Trucon 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="25" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-185" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-185" value="Trucon 6" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="35" y="75" width="40" height="10" as="geometry" />
         </mxCell>
         <object label="Trucon 7" placeholders="1" id="1fTly_CK4mHZAAREvSzi-186">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;horizontal=1;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
             <mxGeometry x="45" y="75" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-187" value="Trucon 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-187" value="Trucon 8" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="55" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-188" value="Trucon 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-188" value="Trucon 9" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="65" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-189" value="Trucon 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-189" value="Trucon 10" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="75" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-190" value="Trucon 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-190" value="Trucon 11" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="85" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-191" value="Trucon 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-192">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-191" value="Trucon 12" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;rotation=90;direction=east;" parent="1fTly_CK4mHZAAREvSzi-192" vertex="1">
           <mxGeometry x="95" y="75" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-202" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-202" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="5280" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <object label="Soca in" placeholders="1" id="1fTly_CK4mHZAAREvSzi-194">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-202" vertex="1">
             <mxGeometry width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-195" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA SPLITTER&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-195" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;SOCA SPLITTER&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-202" vertex="1">
           <mxGeometry x="40" width="80" height="40" as="geometry">
             <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <object label="Soca Out 1" placeholders="1" id="1fTly_CK4mHZAAREvSzi-196">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-202" vertex="1">
             <mxGeometry x="120" width="40" height="10" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="1fTly_CK4mHZAAREvSzi-197" value="Soca Out 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1fTly_CK4mHZAAREvSzi-202">
+        <mxCell id="1fTly_CK4mHZAAREvSzi-197" value="Soca Out 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1fTly_CK4mHZAAREvSzi-202" vertex="1">
           <mxGeometry x="120" y="10" width="40" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="vcv8zqwPrURox5T9LNHE-1" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="3760" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <object label="USB - C" placeholders="1" id="vcv8zqwPrURox5T9LNHE-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vcv8zqwPrURox5T9LNHE-1">
+            <mxGeometry width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;span style=&quot;font-weight: 400;&quot;&gt;USB - C&lt;/span&gt;" placeholders="1" id="vcv8zqwPrURox5T9LNHE-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vcv8zqwPrURox5T9LNHE-1">
+            <mxGeometry y="10" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="USB - C" placeholders="1" id="vcv8zqwPrURox5T9LNHE-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[0,0.5,0,0,0]];container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vcv8zqwPrURox5T9LNHE-1">
+            <mxGeometry y="20" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="vcv8zqwPrURox5T9LNHE-5" value="&lt;p style=&quot;line-height: 130%; font-size: 9px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;MacBook Pro&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;i&gt;Example Label&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;points=[];fontSize=8;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vcv8zqwPrURox5T9LNHE-1">
+          <mxGeometry x="40" width="80" height="40" as="geometry">
+            <mxRectangle x="560" y="300" width="110" height="70" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <object label="HDMI" placeholders="1" id="vcv8zqwPrURox5T9LNHE-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;points=[[1,0.5,0,0,0]];container=0;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="vcv8zqwPrURox5T9LNHE-1">
+            <mxGeometry x="120" width="40" height="10" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
