@@ -15,6 +15,7 @@
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-LED Power.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-LED Tiles.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Looms.xml</add>
+    <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Looms-Resistor.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Matrices.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Media Servers.xml</add>
     <add>Uhttps://raw.githubusercontent.com/dviset/tdc-schema/main/Shapesets/TDC-Monitors.xml</add>
